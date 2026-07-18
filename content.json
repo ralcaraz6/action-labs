@@ -499,15 +499,9 @@
         },
         {
           "label": "WhatsApp",
-          "value": "+34 618 14 21 08",
-          "note": "Para preguntas cortas y directas.",
+          "value": "+34 605 62 18 26",
+          "note": "Escríbeme directamente. Suelo responder el mismo día.",
           "action": "Escribir por WhatsApp"
-        },
-        {
-          "label": "Teléfono",
-          "value": "+34 618 14 21 08",
-          "note": "Horario laboral, hora de Madrid.",
-          "action": "Llamar"
         },
         {
           "label": "Email",
@@ -594,9 +588,9 @@
       "blurb": "Consultoría de inteligencia artificial. Diseñamos e implementamos agentes y automatizaciones que se despliegan en tu propia infraestructura.",
       "contactHeading": "Contacto",
       "email": "ralcaraz.canals@gmail.com",
-      "phone": "+34618142108",
-      "phoneDisplay": "+34 618 14 21 08",
-      "whatsapp": "https://wa.me/34618142108",
+      "phone": "+34605621826",
+      "phoneDisplay": "+34 605 62 18 26",
+      "whatsapp": "https://wa.me/34605621826?text=Hola%2C%20te%20escribo%20desde%20la%20web%20de%20Action%20Labs.",
       "linkedin": "https://www.linkedin.com/in/rogelioalcaraz/",
       "linkedinLabel": "LinkedIn de Rogelio Alcaraz",
       "columns": {
@@ -619,7 +613,8 @@
       "operated": "Action Labs es una marca de Rogelio Alcaraz",
       "location": "En remoto para toda España",
       "legalNotice": "Aviso legal",
-      "privacy": "Privacidad"
+      "privacy": "Privacidad",
+      "whatsappLabel": "WhatsApp"
     },
     "ui": {
       "skip": "Saltar al contenido",
@@ -1064,15 +1059,9 @@
         },
         {
           "label": "WhatsApp",
-          "value": "+34 618 14 21 08",
-          "note": "For short, direct questions.",
+          "value": "+34 605 62 18 26",
+          "note": "Message me directly. I usually reply the same day.",
           "action": "Message on WhatsApp"
-        },
-        {
-          "label": "Phone",
-          "value": "+34 618 14 21 08",
-          "note": "Working hours, Madrid time.",
-          "action": "Call"
         },
         {
           "label": "Email",
@@ -1159,9 +1148,9 @@
       "blurb": "AI consultancy. We design and build agents and automations that are deployed on your own infrastructure.",
       "contactHeading": "Contact",
       "email": "ralcaraz.canals@gmail.com",
-      "phone": "+34618142108",
-      "phoneDisplay": "+34 618 14 21 08",
-      "whatsapp": "https://wa.me/34618142108",
+      "phone": "+34605621826",
+      "phoneDisplay": "+34 605 62 18 26",
+      "whatsapp": "https://wa.me/34605621826?text=Hi%2C%20I%27m%20writing%20from%20the%20Action%20Labs%20website.",
       "linkedin": "https://www.linkedin.com/in/rogelioalcaraz/",
       "linkedinLabel": "Rogelio Alcaraz on LinkedIn",
       "columns": {
@@ -1184,7 +1173,8 @@
       "operated": "Action Labs is a brand of Rogelio Alcaraz",
       "location": "Remote across Spain",
       "legalNotice": "Legal notice",
-      "privacy": "Privacy"
+      "privacy": "Privacy",
+      "whatsappLabel": "WhatsApp"
     },
     "ui": {
       "skip": "Skip to content",
