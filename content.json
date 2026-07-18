@@ -32,6 +32,10 @@
       "legal": {
         "title": "Aviso legal y privacidad | Action Labs",
         "description": "Aviso legal, política de privacidad y tratamiento de datos de Action Labs, consultoría de inteligencia artificial en España."
+      },
+      "privacidad": {
+        "title": "Política de privacidad | Action Labs",
+        "description": "Cómo trata Action Labs los datos que envías por el formulario de contacto, la reserva de llamada y la newsletter."
       }
     },
     "en": {
@@ -66,6 +70,10 @@
       "legal": {
         "title": "Legal notice and privacy | Action Labs",
         "description": "Legal notice, privacy policy and data handling for Action Labs, an AI consultancy based in Spain."
+      },
+      "privacidad": {
+        "title": "Privacy policy | Action Labs",
+        "description": "How Action Labs handles the data you send through the contact form, the call booking and the newsletter."
       }
     }
   },
@@ -287,7 +295,7 @@
       "items": [
         {
           "sector": "Inmobiliario",
-          "title": "Plataforma de inversión inmobiliaria",
+          "title": "Plataforma de inversión",
           "summary": "El cliente recibe oportunidades de inversión de varios proveedores. Construimos una plataforma que le muestra las 20 más interesantes según sus filtros.",
           "bullets": [
             "Valoraciones de catastro y precio por metro cuadrado vía API",
@@ -297,7 +305,7 @@
           "tag": "Inmobiliario"
         },
         {
-          "sector": "Fondo de inversión",
+          "sector": "Finanzas",
           "title": "Briefing diario para los socios",
           "summary": "Un sistema en producción que envía cada mañana a las 7:00 un correo a los socios del fondo. Incluye rendimiento de cartera y oportunidades detectadas por IA.",
           "bullets": [
@@ -498,9 +506,9 @@
           "action": "Reservar"
         },
         {
-          "label": "WhatsApp",
+          "label": "WhatsApp Business",
           "value": "+34 605 62 18 26",
-          "note": "Escríbeme directamente. Suelo responder el mismo día.",
+          "note": "Escríbenos directamente. Solemos responder el mismo día.",
           "action": "Escribir por WhatsApp"
         },
         {
@@ -626,18 +634,21 @@
       "consentText": "Al enviar aceptas nuestra política de privacidad.",
       "sending": "Enviando...",
       "closeModal": "Cerrar",
-      "bookCta": "Reserva una llamada de 30 minutos"
+      "bookCta": "Reserva una llamada de 30 minutos",
+      "privacyLink": "política de privacidad"
     },
     "heroPanel": {
       "inLabel": "Lo que ya usas",
-      "coreTitle": "Tu agente a medida",
-      "coreSub": "en tu infraestructura",
+      "coreTitle": "Tu solución de IA a medida",
+      "coreSub": "agentes, automatizaciones o software, en tu infraestructura",
       "outLabel": "Lo que recibes",
       "outs": [
         "Cada mensaje respondido en segundos",
         "El CRM y los datos siempre al día",
         "Informes y avisos sin que nadie los prepare"
-      ]
+      ],
+      "moreTools": "y muchas más",
+      "moreOuts": "y todo lo que tu proceso necesite"
     },
     "team": {
       "kicker": "El equipo",
@@ -895,7 +906,7 @@
       "items": [
         {
           "sector": "Real estate",
-          "title": "Real-estate investment platform",
+          "title": "Investment platform",
           "summary": "The client receives investment opportunities from several providers. We built a platform that surfaces the 20 most interesting ones according to his filters.",
           "bullets": [
             "Cadastral valuations and price per square metre pulled through APIs",
@@ -905,7 +916,7 @@
           "tag": "Real estate"
         },
         {
-          "sector": "Investment fund",
+          "sector": "Finance",
           "title": "Daily briefing for the partners",
           "summary": "A production system that emails the fund's partners every morning at 7:00. It covers portfolio performance and opportunities detected by AI.",
           "bullets": [
@@ -1106,10 +1117,10 @@
           "action": "Book"
         },
         {
-          "label": "WhatsApp",
+          "label": "WhatsApp Business",
           "value": "+34 605 62 18 26",
-          "note": "Message me directly. I usually reply the same day.",
-          "action": "Message on WhatsApp"
+          "note": "Message the team directly. We usually reply the same day.",
+          "action": "Message us on WhatsApp"
         },
         {
           "label": "Email",
@@ -1231,21 +1242,24 @@
       "menuClose": "Close menu",
       "required": "This field is required",
       "invalidEmail": "Enter a valid email address",
-      "consentText": "By submitting you accept our privacy policy.",
+      "consentText": "By sending this you accept our privacy policy.",
       "sending": "Sending...",
       "closeModal": "Close",
-      "bookCta": "Book a 30-minute call"
+      "bookCta": "Book a 30-minute call",
+      "privacyLink": "privacy policy"
     },
     "heroPanel": {
       "inLabel": "What you already use",
-      "coreTitle": "Your custom agent",
-      "coreSub": "on your infrastructure",
+      "coreTitle": "Your custom AI solution",
+      "coreSub": "agents, automations or software, on your infrastructure",
       "outLabel": "What you get",
       "outs": [
         "Every message answered in seconds",
         "CRM and data always up to date",
         "Reports and alerts nobody has to prepare"
-      ]
+      ],
+      "moreTools": "and many more",
+      "moreOuts": "and whatever else your process needs"
     },
     "team": {
       "kicker": "The team",

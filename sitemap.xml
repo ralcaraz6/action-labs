@@ -73,4 +73,9 @@
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://ralcaraz6.github.io/action-labs/privacidad.html</loc>
+    <lastmod>2026-07-18</lastmod>
+    <priority>0.3</priority>
+  </url>
 </urlset>
