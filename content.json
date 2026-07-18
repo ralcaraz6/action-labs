@@ -3,7 +3,7 @@
     "es": {
       "home": {
         "title": "Consultoría de IA para empresas | Action Labs",
-        "description": "Diseñamos e implementamos agentes de IA y automatizaciones en tu propia infraestructura. Consultoría de IA en Barcelona. Reserva una llamada."
+        "description": "Diseñamos e implementamos agentes de IA y automatizaciones en tu propia infraestructura. Consultoría de IA en España. Reserva una llamada."
       },
       "formacion": {
         "title": "Formación en IA para empresas | Action Labs",
@@ -31,13 +31,13 @@
       },
       "legal": {
         "title": "Aviso legal y privacidad | Action Labs",
-        "description": "Aviso legal, política de privacidad y tratamiento de datos de Action Labs, consultoría de inteligencia artificial en Barcelona."
+        "description": "Aviso legal, política de privacidad y tratamiento de datos de Action Labs, consultoría de inteligencia artificial en España."
       }
     },
     "en": {
       "home": {
         "title": "AI consultancy for companies | Action Labs",
-        "description": "AI consultancy based in Barcelona. We design and build autonomous agents and AI automation on your own infrastructure. Book a 30-minute call."
+        "description": "AI consultancy based in Spain. We design and build autonomous agents and AI automation on your own infrastructure. Book a 30-minute call."
       },
       "formacion": {
         "title": "AI training for companies | Action Labs",
@@ -65,7 +65,7 @@
       },
       "legal": {
         "title": "Legal notice and privacy | Action Labs",
-        "description": "Legal notice, privacy policy and data handling for Action Labs, an AI consultancy based in Barcelona."
+        "description": "Legal notice, privacy policy and data handling for Action Labs, an AI consultancy based in Spain."
       }
     }
   },
@@ -80,12 +80,11 @@
       "cta": "Reserva una llamada de 30 minutos"
     },
     "hero": {
-      "eyebrow": "Consultoría de IA · Barcelona",
+      "eyebrow": "Consultoría de IA",
       "headline": "Consultoría en {{Inteligencia Artificial}} para empresas",
       "sub": "Automatiza tus procesos y multiplica la capacidad de tu negocio. Diseñamos e implementamos agentes autónomos y flujos de trabajo inteligentes que se integran con tus sistemas actuales. Reduce costes, elimina errores manuales y libera a tu equipo de tareas repetitivas, sin complicaciones técnicas.",
       "cta1": "Reserva una llamada de 30 minutos",
-      "cta2": "Ver casos de éxito",
-      "trustLine": "Sistemas en producción para clientes reales · Barcelona"
+      "cta2": "Ver casos de éxito"
     },
     "ownership": {
       "kicker": "Tu stack, no el nuestro",
@@ -325,16 +324,8 @@
       "kicker": "Quién está detrás",
       "heading": "Soy Rogelio Alcaraz, director de Action Labs",
       "name": "Rogelio Alcaraz",
-      "role": "Director de Action Labs · Barcelona",
+      "role": "Director de Action Labs",
       "bio": "Llevo más de diez años trabajando con datos y hoy soy analista de datos sénior en una plataforma europea con millones de usuarios. He visto de cerca lo que separa un proyecto de IA que acaba en producción de una demo bonita que nadie usa. Monté Action Labs porque demasiadas empresas están comprando cajas negras que no controlan ni entienden. Aquí construimos sobre tu infraestructura, te explicamos cada decisión y te dejamos el sistema en la mano.",
-      "whyTalk": {
-        "heading": "Por qué hablarás directamente con Rogelio",
-        "points": [
-          "Sin comerciales ni intermediarios: hablas con quien diseña el sistema",
-          "Te decimos si tu caso no merece un proyecto de IA",
-          "Presupuesto y alcance claros después de la primera llamada"
-        ]
-      },
       "roleChip": "Director",
       "photoAlt": "Rogelio Alcaraz, director de Action Labs"
     },
@@ -626,7 +617,7 @@
       },
       "rights": "© 2026 Action Labs",
       "operated": "Action Labs es una marca de Rogelio Alcaraz",
-      "location": "Barcelona · En remoto para toda España",
+      "location": "En remoto para toda España",
       "legalNotice": "Aviso legal",
       "privacy": "Privacidad"
     },
@@ -654,12 +645,11 @@
       "cta": "Book a 30-minute call"
     },
     "hero": {
-      "eyebrow": "AI consultancy · Barcelona",
+      "eyebrow": "AI consultancy",
       "headline": "{{Artificial intelligence}} consultancy for companies",
       "sub": "Automate your processes and multiply what your business can handle. We design and build autonomous agents and intelligent workflows that plug into the systems you already run. Cut costs, remove manual errors and free your team from repetitive work, without the technical headache.",
       "cta1": "Book a 30-minute call",
-      "cta2": "View case studies",
-      "trustLine": "Live systems running for real clients · Barcelona"
+      "cta2": "View case studies"
     },
     "ownership": {
       "kicker": "Your stack, not ours",
@@ -899,16 +889,8 @@
       "kicker": "Who is behind this",
       "heading": "I'm Rogelio Alcaraz, director of Action Labs",
       "name": "Rogelio Alcaraz",
-      "role": "Director of Action Labs · Barcelona",
+      "role": "Director of Action Labs",
       "bio": "I have spent more than ten years working with data and I am currently a senior data analyst at a European platform with millions of users. I have seen up close what separates an AI project that reaches production from a pretty demo nobody ends up using. I started Action Labs because too many companies are buying black boxes they neither control nor understand. Here we build on your infrastructure, explain every decision and hand you the system.",
-      "whyTalk": {
-        "heading": "Why you will speak to Rogelio directly",
-        "points": [
-          "No sales reps in between: you talk to the person designing the system",
-          "We will tell you if your case does not warrant an AI project",
-          "Clear scope and budget right after the first call"
-        ]
-      },
       "roleChip": "Director",
       "photoAlt": "Rogelio Alcaraz, director of Action Labs"
     },
@@ -1200,7 +1182,7 @@
       },
       "rights": "© 2026 Action Labs",
       "operated": "Action Labs is a brand of Rogelio Alcaraz",
-      "location": "Barcelona · Remote across Spain",
+      "location": "Remote across Spain",
       "legalNotice": "Legal notice",
       "privacy": "Privacy"
     },
