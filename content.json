@@ -627,6 +627,54 @@
       "sending": "Enviando...",
       "closeModal": "Cerrar",
       "bookCta": "Reserva una llamada de 30 minutos"
+    },
+    "heroPanel": {
+      "inLabel": "Lo que ya usas",
+      "coreTitle": "Tu agente a medida",
+      "coreSub": "en tu infraestructura",
+      "outLabel": "Lo que recibes",
+      "outs": [
+        "Cada mensaje respondido en segundos",
+        "El CRM y los datos siempre al día",
+        "Informes y avisos sin que nadie los prepare"
+      ]
+    },
+    "team": {
+      "kicker": "El equipo",
+      "heading": "Quién construye tus sistemas",
+      "sub": "Un equipo pequeño y sénior. Hablas directamente con quien diseña y mantiene lo que se pone en producción.",
+      "members": [
+        {
+          "initials": "RA",
+          "name": "Rogelio Alcaraz",
+          "role": "Director",
+          "bio": "Más de diez años trabajando con datos y analista de datos sénior en una plataforma europea con millones de usuarios. Dirige el diseño de cada sistema."
+        },
+        {
+          "initials": "AS",
+          "name": "Andrew Schwartz",
+          "role": "Project Manager",
+          "bio": "Coordina los proyectos de principio a fin: alcance, plazos e interlocución con tu equipo, para que cada fase llegue cuando toca."
+        },
+        {
+          "initials": "LP",
+          "name": "Luis Paloma",
+          "role": "AI Specialist",
+          "bio": "Diseña y construye los agentes: integraciones con tus herramientas, pruebas contra casos reales y puesta en producción."
+        },
+        {
+          "initials": "MA",
+          "name": "Massimo Angelini",
+          "role": "AI Specialist",
+          "bio": "Trabaja en la capa de modelos y automatizaciones: selección del modelo adecuado, evaluación de resultados y mejora continua."
+        },
+        {
+          "initials": "ÁE",
+          "name": "Álvaro Entrena",
+          "role": "Trainee",
+          "bio": "Apoya en investigación, documentación y pruebas de los sistemas antes de que salgan a producción."
+        }
+      ]
     }
   },
   "en": {
@@ -1187,6 +1235,54 @@
       "sending": "Sending...",
       "closeModal": "Close",
       "bookCta": "Book a 30-minute call"
+    },
+    "heroPanel": {
+      "inLabel": "What you already use",
+      "coreTitle": "Your custom agent",
+      "coreSub": "on your infrastructure",
+      "outLabel": "What you get",
+      "outs": [
+        "Every message answered in seconds",
+        "CRM and data always up to date",
+        "Reports and alerts nobody has to prepare"
+      ]
+    },
+    "team": {
+      "kicker": "The team",
+      "heading": "Who builds your systems",
+      "sub": "A small, senior team. You talk directly to the people who design and maintain what goes into production.",
+      "members": [
+        {
+          "initials": "RA",
+          "name": "Rogelio Alcaraz",
+          "role": "Director",
+          "bio": "Over ten years working with data and a senior data analyst at a European platform with millions of users. Leads the design of every system."
+        },
+        {
+          "initials": "AS",
+          "name": "Andrew Schwartz",
+          "role": "Project Manager",
+          "bio": "Runs projects end to end: scope, timelines and communication with your team, so every phase lands when it should."
+        },
+        {
+          "initials": "LP",
+          "name": "Luis Paloma",
+          "role": "AI Specialist",
+          "bio": "Designs and builds the agents: integrations with your tools, testing against real cases and deployment to production."
+        },
+        {
+          "initials": "MA",
+          "name": "Massimo Angelini",
+          "role": "AI Specialist",
+          "bio": "Works on the model and automation layer: picking the right model, evaluating results and continuous improvement."
+        },
+        {
+          "initials": "ÁE",
+          "name": "Álvaro Entrena",
+          "role": "Trainee",
+          "bio": "Supports research, documentation and testing of the systems before they reach production."
+        }
+      ]
     }
   }
 }
