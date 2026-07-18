@@ -1,0 +1,246 @@
+{
+ "airtable": {
+  "title": "Airtable",
+  "hex": "#18BFFF"
+ },
+ "asana": {
+  "title": "Asana",
+  "hex": "#F06A6A"
+ },
+ "calendly": {
+  "title": "Calendly",
+  "hex": "#006BFF"
+ },
+ "clickup": {
+  "title": "ClickUp",
+  "hex": "#7B68EE"
+ },
+ "discord": {
+  "title": "Discord",
+  "hex": "#5865F2"
+ },
+ "dropbox": {
+  "title": "Dropbox",
+  "hex": "#0061FF"
+ },
+ "facebook": {
+  "title": "Facebook",
+  "hex": "#0866FF"
+ },
+ "gmail": {
+  "title": "Gmail",
+  "hex": "#EA4335"
+ },
+ "googleads": {
+  "title": "Google Ads",
+  "hex": "#4285F4"
+ },
+ "googlecalendar": {
+  "title": "Google Calendar",
+  "hex": "#4285F4"
+ },
+ "googledocs": {
+  "title": "Google Docs",
+  "hex": "#4285F4"
+ },
+ "googledrive": {
+  "title": "Google Drive",
+  "hex": "#4285F4"
+ },
+ "googlesheets": {
+  "title": "Google Sheets",
+  "hex": "#34A853"
+ },
+ "hubspot": {
+  "title": "HubSpot",
+  "hex": "#FF7A59"
+ },
+ "instagram": {
+  "title": "Instagram",
+  "hex": "#FF0069"
+ },
+ "intercom": {
+  "title": "Intercom",
+  "hex": "#6AFDEF"
+ },
+ "jira": {
+  "title": "Jira",
+  "hex": "#0052CC"
+ },
+ "linkedin": {
+  "title": "LinkedIn",
+  "hex": "#0A66C2"
+ },
+ "mailchimp": {
+  "title": "MailChimp",
+  "hex": "#FFE01B"
+ },
+ "make": {
+  "title": "Make",
+  "hex": "#6D00CC"
+ },
+ "mongodb": {
+  "title": "MongoDB",
+  "hex": "#47A248"
+ },
+ "notion": {
+  "title": "Notion",
+  "hex": "#000000"
+ },
+ "odoo": {
+  "title": "Odoo",
+  "hex": "#714B67"
+ },
+ "oracle": {
+  "title": "Oracle",
+  "hex": "#F80000"
+ },
+ "postgresql": {
+  "title": "PostgreSQL",
+  "hex": "#4169E1"
+ },
+ "prestashop": {
+  "title": "PrestaShop",
+  "hex": "#DF0067"
+ },
+ "quickbooks": {
+  "title": "QuickBooks",
+  "hex": "#2CA01C"
+ },
+ "salesforce": {
+  "title": "Salesforce",
+  "hex": "#00A1E0"
+ },
+ "sap": {
+  "title": "SAP",
+  "hex": "#0FAAFF"
+ },
+ "shopify": {
+  "title": "Shopify",
+  "hex": "#7AB55C"
+ },
+ "slack": {
+  "title": "Slack",
+  "hex": "#4A154B"
+ },
+ "stripe": {
+  "title": "Stripe",
+  "hex": "#635BFF"
+ },
+ "supabase": {
+  "title": "Supabase",
+  "hex": "#3FCF8E"
+ },
+ "telegram": {
+  "title": "Telegram",
+  "hex": "#26A5E4"
+ },
+ "trello": {
+  "title": "Trello",
+  "hex": "#0052CC"
+ },
+ "twilio": {
+  "title": "Twilio",
+  "hex": "#F22F46"
+ },
+ "typeform": {
+  "title": "Typeform",
+  "hex": "#262627"
+ },
+ "webflow": {
+  "title": "Webflow",
+  "hex": "#146EF5"
+ },
+ "whatsapp": {
+  "title": "WhatsApp",
+  "hex": "#25D366"
+ },
+ "woocommerce": {
+  "title": "WooCommerce",
+  "hex": "#96588A"
+ },
+ "wordpress": {
+  "title": "WordPress",
+  "hex": "#21759B"
+ },
+ "xero": {
+  "title": "Xero",
+  "hex": "#13B5EA"
+ },
+ "zapier": {
+  "title": "Zapier",
+  "hex": "#FF4F00"
+ },
+ "zendesk": {
+  "title": "Zendesk",
+  "hex": "#03363D"
+ },
+ "zoom": {
+  "title": "Zoom",
+  "hex": "#0B5CFF"
+ },
+ "amazonwebservices": {
+  "title": "Amazon Web Services",
+  "hex": "#232F3E"
+ },
+ "anthropic": {
+  "title": "Anthropic",
+  "hex": "#191919"
+ },
+ "claude": {
+  "title": "Claude",
+  "hex": "#D97757"
+ },
+ "databricks": {
+  "title": "Databricks",
+  "hex": "#FF3621"
+ },
+ "google": {
+  "title": "Google",
+  "hex": "#4285F4"
+ },
+ "googlecloud": {
+  "title": "Google Cloud",
+  "hex": "#4285F4"
+ },
+ "googlegemini": {
+  "title": "Google Gemini",
+  "hex": "#8E75B2"
+ },
+ "huggingface": {
+  "title": "Hugging Face",
+  "hex": "#FFD21E"
+ },
+ "langchain": {
+  "title": "LangChain",
+  "hex": "#1C3C3C"
+ },
+ "meta": {
+  "title": "Meta",
+  "hex": "#0467DF"
+ },
+ "n8n": {
+  "title": "n8n",
+  "hex": "#EA4B71"
+ },
+ "ollama": {
+  "title": "Ollama",
+  "hex": "#000000"
+ },
+ "openai": {
+  "title": "OpenAI",
+  "hex": "#412991"
+ },
+ "perplexity": {
+  "title": "Perplexity",
+  "hex": "#1FB8CD"
+ },
+ "python": {
+  "title": "Python",
+  "hex": "#3776AB"
+ },
+ "vercel": {
+  "title": "Vercel",
+  "hex": "#000000"
+ }
+}

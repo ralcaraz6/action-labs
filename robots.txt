@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ralcaraz6.github.io/action-labs/sitemap.xml
