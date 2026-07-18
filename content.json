@@ -282,11 +282,11 @@
     "cases": {
       "kicker": "Casos de éxito",
       "heading": "Sistemas que ya están en producción",
-      "sub": "Tres sistemas reales en producción. Los nombres de los clientes se mantienen confidenciales por acuerdo.",
-      "note": "Podemos enseñarte estos sistemas funcionando durante la llamada.",
+      "sub": "Tres sistemas reales, funcionando hoy en producción.",
+      "note": "",
       "items": [
         {
-          "sector": "Cliente privado",
+          "sector": "Inmobiliario",
           "title": "Plataforma de inversión inmobiliaria",
           "summary": "El cliente recibe oportunidades de inversión de varios proveedores. Construimos una plataforma que le muestra las 20 más interesantes según sus filtros.",
           "bullets": [
@@ -297,7 +297,7 @@
           "tag": "Inmobiliario"
         },
         {
-          "sector": "Fondo de inversión (confidencial)",
+          "sector": "Fondo de inversión",
           "title": "Briefing diario para los socios",
           "summary": "Un sistema en producción que envía cada mañana a las 7:00 un correo a los socios del fondo. Incluye rendimiento de cartera y oportunidades detectadas por IA.",
           "bullets": [
@@ -847,11 +847,11 @@
     "cases": {
       "kicker": "Case studies",
       "heading": "Systems already running in production",
-      "sub": "Three real systems in production. Client names stay confidential by agreement.",
-      "note": "We can walk you through these systems live during the call.",
+      "sub": "Three real systems, running in production today.",
+      "note": "",
       "items": [
         {
-          "sector": "Private client",
+          "sector": "Real estate",
           "title": "Real-estate investment platform",
           "summary": "The client receives investment opportunities from several providers. We built a platform that surfaces the 20 most interesting ones according to his filters.",
           "bullets": [
@@ -862,7 +862,7 @@
           "tag": "Real estate"
         },
         {
-          "sector": "Investment fund (confidential)",
+          "sector": "Investment fund",
           "title": "Daily briefing for the partners",
           "summary": "A production system that emails the fund's partners every morning at 7:00. It covers portfolio performance and opportunities detected by AI.",
           "bullets": [
