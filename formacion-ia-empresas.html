@@ -474,8 +474,18 @@ h3{font-size:1.06rem;line-height:1.35;font-weight:600;letter-spacing:-.008em}
 .founder-photo-wrap{margin:0}
 .founder-photo{width:100%;height:auto;max-width:460px;aspect-ratio:1/1;object-fit:cover;border-radius:18px;display:block;margin-left:auto;background:var(--card)}
 @media (max-width:900px){
-  .founder-split{grid-template-columns:1fr;gap:32px}
-  .founder-photo{max-width:340px;margin:0}
+  .founder-split{grid-template-columns:1fr;gap:26px}
+  /* let the copy children join the grid so the photo can sit right after the title */
+  .founder-copy{display:contents}
+  .role-chip{order:1;justify-self:start}
+  .founder-title{order:2}
+  .founder-photo-wrap{order:3}
+  .founder-split .founder-bio{order:4}
+  .founder-split .why-box{order:5}
+  .founder-meta{order:6}
+  .founder-photo{max-width:100%;margin:0;aspect-ratio:4/3;object-position:50% 35%}
+  .founder-meta{justify-self:start}
+  .founder-title{margin-bottom:4px}
 }
 </style>
 <noscript><style>.reveal{opacity:1!important;transform:none!important}</style></noscript>
