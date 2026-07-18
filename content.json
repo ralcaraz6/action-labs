@@ -323,7 +323,7 @@
     },
     "founder": {
       "kicker": "Quién está detrás",
-      "heading": "Un consultor, no una agencia",
+      "heading": "Soy Rogelio Alcaraz, director de Action Labs",
       "name": "Rogelio Alcaraz",
       "role": "Director de Action Labs · Barcelona",
       "bio": "Llevo más de diez años trabajando con datos y hoy soy analista de datos sénior en una plataforma europea con millones de usuarios. He visto de cerca lo que separa un proyecto de IA que acaba en producción de una demo bonita que nadie usa. Monté Action Labs porque demasiadas empresas están comprando cajas negras que no controlan ni entienden. Aquí construimos sobre tu infraestructura, te explicamos cada decisión y te dejamos el sistema en la mano.",
@@ -334,7 +334,9 @@
           "Te decimos si tu caso no merece un proyecto de IA",
           "Presupuesto y alcance claros después de la primera llamada"
         ]
-      }
+      },
+      "roleChip": "Director",
+      "photoAlt": "Rogelio Alcaraz, director de Action Labs"
     },
     "booking": {
       "title": "Reserva una llamada de 30 minutos",
@@ -895,7 +897,7 @@
     },
     "founder": {
       "kicker": "Who is behind this",
-      "heading": "One consultant, not an agency",
+      "heading": "I'm Rogelio Alcaraz, director of Action Labs",
       "name": "Rogelio Alcaraz",
       "role": "Director of Action Labs · Barcelona",
       "bio": "I have spent more than ten years working with data and I am currently a senior data analyst at a European platform with millions of users. I have seen up close what separates an AI project that reaches production from a pretty demo nobody ends up using. I started Action Labs because too many companies are buying black boxes they neither control nor understand. Here we build on your infrastructure, explain every decision and hand you the system.",
@@ -906,7 +908,9 @@
           "We will tell you if your case does not warrant an AI project",
           "Clear scope and budget right after the first call"
         ]
-      }
+      },
+      "roleChip": "Director",
+      "photoAlt": "Rogelio Alcaraz, director of Action Labs"
     },
     "booking": {
       "title": "Book a 30-minute call",
