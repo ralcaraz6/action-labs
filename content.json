@@ -90,7 +90,7 @@
     "hero": {
       "eyebrow": "Consultoría de IA",
       "headline": "Consultoría en {{Inteligencia Artificial}} para empresas",
-      "sub": "Automatiza tus procesos y multiplica la capacidad de tu negocio. Diseñamos e implementamos agentes autónomos y flujos de trabajo inteligentes que se integran con tus sistemas actuales. Reduce costes, elimina errores manuales y libera a tu equipo de tareas repetitivas, sin complicaciones técnicas.",
+      "sub": "Automatiza tus procesos y multiplica la capacidad de tu negocio. Diseñamos e implementamos agentes autónomos y flujos de trabajo inteligentes que se integran con tus sistemas actuales.",
       "cta1": "Reserva una llamada de 30 minutos",
       "cta2": "Ver casos de éxito"
     },
@@ -701,7 +701,7 @@
     "hero": {
       "eyebrow": "AI consultancy",
       "headline": "{{Artificial intelligence}} consultancy for companies",
-      "sub": "Automate your processes and multiply what your business can handle. We design and build autonomous agents and intelligent workflows that plug into the systems you already run. Cut costs, remove manual errors and free your team from repetitive work, without the technical headache.",
+      "sub": "Automate your processes and multiply what your business can handle. We design and build autonomous agents and intelligent workflows that plug into the systems you already run.",
       "cta1": "Book a 30-minute call",
       "cta2": "View case studies"
     },
