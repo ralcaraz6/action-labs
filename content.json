@@ -90,7 +90,7 @@
     "hero": {
       "eyebrow": "Consultoría de IA",
       "headline": "Consultoría en {{Inteligencia Artificial}} para empresas",
-      "sub": "Automatiza tus procesos y multiplica la capacidad de tu negocio. Diseñamos e implementamos agentes autónomos y flujos de trabajo inteligentes que se integran con tus sistemas actuales.",
+      "sub": "Resolvemos problemas reales de tu empresa con inteligencia artificial y automatización, sobre el stack que ya usas. Los agentes son una de las herramientas, no el producto.",
       "cta1": "Reserva una llamada de 30 minutos",
       "cta2": "Ver casos de éxito"
     },
@@ -635,7 +635,8 @@
       "sending": "Enviando...",
       "closeModal": "Cerrar",
       "bookCta": "Reserva una llamada de 30 minutos",
-      "privacyLink": "política de privacidad"
+      "privacyLink": "política de privacidad",
+      "waFloat": "Escríbenos por WhatsApp"
     },
     "heroPanel": {
       "inLabel": "Lo que ya usas",
@@ -701,7 +702,7 @@
     "hero": {
       "eyebrow": "AI consultancy",
       "headline": "{{Artificial intelligence}} consultancy for companies",
-      "sub": "Automate your processes and multiply what your business can handle. We design and build autonomous agents and intelligent workflows that plug into the systems you already run.",
+      "sub": "We solve real business problems with AI and automation, on the stack you already run. Agents are one of the tools, not the product.",
       "cta1": "Book a 30-minute call",
       "cta2": "View case studies"
     },
@@ -1246,7 +1247,8 @@
       "sending": "Sending...",
       "closeModal": "Close",
       "bookCta": "Book a 30-minute call",
-      "privacyLink": "privacy policy"
+      "privacyLink": "privacy policy",
+      "waFloat": "Message us on WhatsApp"
     },
     "heroPanel": {
       "inLabel": "What you already use",
