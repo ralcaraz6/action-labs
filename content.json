@@ -660,31 +660,43 @@
           "initials": "RA",
           "name": "Rogelio Alcaraz",
           "role": "Director",
-          "bio": "Más de diez años trabajando con datos y analista de datos sénior en una plataforma europea con millones de usuarios. Dirige el diseño de cada sistema."
+          "bio": "Más de diez años trabajando con datos y analista de datos sénior en una plataforma europea con millones de usuarios. Dirige el diseño de cada sistema.",
+          "slug": "rogelio-alcaraz"
         },
         {
           "initials": "AS",
           "name": "Andrew Schwartz",
           "role": "Project Manager",
-          "bio": "Coordina los proyectos de principio a fin: alcance, plazos e interlocución con tu equipo, para que cada fase llegue cuando toca."
+          "bio": "Coordina los proyectos de principio a fin: alcance, plazos e interlocución con tu equipo, para que cada fase llegue cuando toca.",
+          "slug": "andrew-schwartz"
         },
         {
           "initials": "LP",
           "name": "Luis Paloma",
           "role": "AI Specialist",
-          "bio": "Diseña y construye los agentes: integraciones con tus herramientas, pruebas contra casos reales y puesta en producción."
+          "bio": "Diseña y construye los agentes: integraciones con tus herramientas, pruebas contra casos reales y puesta en producción.",
+          "slug": "luis-paloma"
         },
         {
           "initials": "MA",
           "name": "Massimo Angelini",
           "role": "AI Specialist",
-          "bio": "Trabaja en la capa de modelos y automatizaciones: selección del modelo adecuado, evaluación de resultados y mejora continua."
+          "bio": "Trabaja en la capa de modelos y automatizaciones: selección del modelo adecuado, evaluación de resultados y mejora continua.",
+          "slug": "massimo-angelini"
+        },
+        {
+          "initials": "PC",
+          "name": "Paula Campreciós",
+          "role": "AI Specialist",
+          "slug": "paula-camprecios",
+          "bio": "Construye y adapta los sistemas de IA a cada proceso: integración con las herramientas del cliente, pruebas y seguimiento en producción."
         },
         {
           "initials": "ÁE",
           "name": "Álvaro Entrena",
           "role": "Trainee",
-          "bio": "Apoya en investigación, documentación y pruebas de los sistemas antes de que salgan a producción."
+          "bio": "Apoya en investigación, documentación y pruebas de los sistemas antes de que salgan a producción.",
+          "slug": "alvaro-entrena"
         }
       ]
     }
@@ -1272,31 +1284,43 @@
           "initials": "RA",
           "name": "Rogelio Alcaraz",
           "role": "Director",
-          "bio": "Over ten years working with data and a senior data analyst at a European platform with millions of users. Leads the design of every system."
+          "bio": "Over ten years working with data and a senior data analyst at a European platform with millions of users. Leads the design of every system.",
+          "slug": "rogelio-alcaraz"
         },
         {
           "initials": "AS",
           "name": "Andrew Schwartz",
           "role": "Project Manager",
-          "bio": "Runs projects end to end: scope, timelines and communication with your team, so every phase lands when it should."
+          "bio": "Runs projects end to end: scope, timelines and communication with your team, so every phase lands when it should.",
+          "slug": "andrew-schwartz"
         },
         {
           "initials": "LP",
           "name": "Luis Paloma",
           "role": "AI Specialist",
-          "bio": "Designs and builds the agents: integrations with your tools, testing against real cases and deployment to production."
+          "bio": "Designs and builds the agents: integrations with your tools, testing against real cases and deployment to production.",
+          "slug": "luis-paloma"
         },
         {
           "initials": "MA",
           "name": "Massimo Angelini",
           "role": "AI Specialist",
-          "bio": "Works on the model and automation layer: picking the right model, evaluating results and continuous improvement."
+          "bio": "Works on the model and automation layer: picking the right model, evaluating results and continuous improvement.",
+          "slug": "massimo-angelini"
+        },
+        {
+          "initials": "PC",
+          "name": "Paula Campreciós",
+          "role": "AI Specialist",
+          "slug": "paula-camprecios",
+          "bio": "Builds and adapts the AI systems to each process: integration with the client's tools, testing and monitoring in production."
         },
         {
           "initials": "ÁE",
           "name": "Álvaro Entrena",
           "role": "Trainee",
-          "bio": "Supports research, documentation and testing of the systems before they reach production."
+          "bio": "Supports research, documentation and testing of the systems before they reach production.",
+          "slug": "alvaro-entrena"
         }
       ]
     }
