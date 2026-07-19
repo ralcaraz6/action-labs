@@ -559,6 +559,12 @@ p,li,.sub,.privacy-note,.founder-bio,.step p,.app-card p,.case-card p,figcaption
 body.modal-open .wa-fab,body.menu-open .wa-fab{display:none}
 @media (max-width:560px){.wa-fab{right:14px;bottom:14px;height:52px;padding:0 12px}}
 @media (prefers-reduced-motion:reduce){.wa-fab,.wa-fab-txt{transition:none}}
+
+/* ============ CASE ART (industry banner) ============ */
+.case-art-wrap{margin:-4px -4px 16px;background:var(--cream);border:1px solid var(--line);border-radius:12px;
+  overflow:hidden;display:block;line-height:0}
+.case-art{width:100%;height:auto;display:block;aspect-ratio:320/120}
+@media (max-width:900px){.case-art-wrap{margin-bottom:14px}}
 </style>
 <noscript><style>.reveal{opacity:1!important;transform:none!important}</style></noscript>
 </head>
@@ -908,6 +914,19 @@ body.modal-open .wa-fab,body.menu-open .wa-fab{display:none}
       <p class="sub" data-i18n="cases.sub">Tres sistemas reales, funcionando hoy en producción.</p>
     </div>
     <ul class="case-grid"><li class="case-card reveal">
+      <div class="case-art-wrap"><svg class="case-art" viewBox="0 0 320 120" fill="none" role="img" aria-label="Inmobiliario" preserveAspectRatio="xMidYMid meet">
+<g stroke="#211D18" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+<rect x="34" y="52" width="52" height="52" fill="#FCFBF7"/><path d="M34 52l26-20 26 20"/>
+<rect x="50" y="70" width="14" height="14" fill="#F6F1E5"/><rect x="70" y="70" width="8" height="34" fill="#F6F1E5"/>
+<rect x="104" y="34" width="46" height="70" fill="#FCFBF7"/>
+<path d="M114 46h10M130 46h10M114 60h10M130 60h10M114 74h10M130 74h10" stroke-width="1.6"/>
+<rect x="120" y="88" width="14" height="16" fill="#F6F1E5"/>
+<rect x="168" y="60" width="40" height="44" fill="#FCFBF7"/>
+<path d="M176 70h8M192 70h8M176 84h8M192 84h8" stroke-width="1.6"/>
+<path d="M24 104h272" stroke-width="2"/>
+<circle cx="248" cy="52" r="16" fill="#F6F1E5"/><path d="M248 44v8l6 4" stroke="#B5401C" stroke-width="2.4"/>
+<path d="M232 88h48" stroke="#B5401C" stroke-width="2.4"/><path d="M268 80l12 8-12 8" stroke="#B5401C" stroke-width="2.4"/>
+</g></svg></div>
       <div class="case-head">
         <span class="chip chip-tag" data-i18n="cases.items.0.tag">Inmobiliario</span>
       </div>
@@ -916,6 +935,17 @@ body.modal-open .wa-fab,body.menu-open .wa-fab{display:none}
       <ul class="case-bullets"><li data-i18n="cases.items.0.bullets.0">Valoraciones de catastro y precio por metro cuadrado vía API</li><li data-i18n="cases.items.0.bullets.1">Ranking de oportunidades según sus propios criterios</li><li data-i18n="cases.items.0.bullets.2">Informes de inversión en tiempo real para enseñar a inversores</li></ul>
     </li>
 <li class="case-card reveal">
+      <div class="case-art-wrap"><svg class="case-art" viewBox="0 0 320 120" fill="none" role="img" aria-label="Finanzas" preserveAspectRatio="xMidYMid meet">
+<g stroke="#211D18" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+<rect x="30" y="26" width="126" height="78" rx="6" fill="#FCFBF7"/>
+<path d="M30 40h126"/><circle cx="42" cy="33" r="2.4" fill="#211D18" stroke="none"/><circle cx="52" cy="33" r="2.4" fill="#211D18" stroke="none"/>
+<path d="M44 56h44M44 68h60M44 80h32" stroke-width="1.6"/>
+<path d="M100 84l14-16 12 10 18-26" stroke="#B5401C" stroke-width="2.6"/><circle cx="144" cy="52" r="3.4" fill="#B5401C" stroke="none"/>
+<rect x="186" y="44" width="104" height="60" rx="6" fill="#F6F1E5"/>
+<path d="M186 56l52 26 52-26"/>
+<circle cx="282" cy="46" r="11" fill="#FCFBF7"/><path d="M282 40v6l4 3" stroke="#B5401C" stroke-width="2.2"/>
+<path d="M24 112h272" stroke-width="1.4" opacity=".35"/>
+</g></svg></div>
       <div class="case-head">
         <span class="chip chip-tag" data-i18n="cases.items.1.tag">Finanzas</span>
       </div>
@@ -924,6 +954,22 @@ body.modal-open .wa-fab,body.menu-open .wa-fab{display:none}
       <ul class="case-bullets"><li data-i18n="cases.items.1.bullets.0">Análisis automático con las reglas propias del fondo</li><li data-i18n="cases.items.1.bullets.1">Envío programado sin intervención manual</li><li data-i18n="cases.items.1.bullets.2">Rendimiento de cartera y oportunidades en el mismo correo</li></ul>
     </li>
 <li class="case-card reveal">
+      <div class="case-art-wrap"><svg class="case-art" viewBox="0 0 320 120" fill="none" role="img" aria-label="Mercados" preserveAspectRatio="xMidYMid meet">
+<g stroke="#211D18" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+<path d="M28 104h268" stroke-width="2"/><path d="M28 104V22" stroke-width="2"/>
+<g stroke-width="2">
+<path d="M56 46v46"/><rect x="48" y="56" width="16" height="24" fill="#FCFBF7"/>
+<path d="M92 38v54"/><rect x="84" y="50" width="16" height="30" fill="#F6F1E5"/>
+<path d="M128 56v40"/><rect x="120" y="66" width="16" height="20" fill="#FCFBF7"/>
+</g>
+<g stroke="#B5401C" stroke-width="2">
+<path d="M164 34v54"/><rect x="156" y="44" width="16" height="32" fill="#FCFBF7" stroke="#B5401C"/>
+<path d="M200 28v58"/><rect x="192" y="38" width="16" height="36" fill="#FCFBF7" stroke="#B5401C"/>
+</g>
+<path d="M236 62v34"/><rect x="228" y="70" width="16" height="18" fill="#FCFBF7"/>
+<path d="M44 84l40-22 36 12 40-28 40-10" stroke="#B5401C" stroke-width="2.4" opacity=".55"/>
+<circle cx="272" cy="44" r="15" fill="#F6F1E5"/><path d="M266 44h12M272 38v12" stroke-width="2"/>
+</g></svg></div>
       <div class="case-head">
         <span class="chip chip-tag" data-i18n="cases.items.2.tag">Mercados</span>
       </div>
