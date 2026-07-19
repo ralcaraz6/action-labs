@@ -36,6 +36,14 @@
       "privacidad": {
         "title": "Política de privacidad | Action Labs",
         "description": "Cómo trata Action Labs los datos que envías por el formulario de contacto, la reserva de llamada y la newsletter."
+      },
+      "cursoTareas": {
+        "title": "Curso gratis: crea tu gestor de tareas con Claude | Action Labs",
+        "description": "Curso gratuito en español: construye tu propia plataforma de gestión de tareas con Claude en menos de una hora, sin saber programar."
+      },
+      "cursoTareasAcceso": {
+        "title": "Tu curso gratis | Action Labs",
+        "description": "Vídeo y prompts del curso para crear tu plataforma de gestión de tareas con Claude."
       }
     },
     "en": {
@@ -74,6 +82,14 @@
       "privacidad": {
         "title": "Privacy policy | Action Labs",
         "description": "How Action Labs handles the data you send through the contact form, the call booking and the newsletter."
+      },
+      "cursoTareas": {
+        "title": "Free course: build your task manager with Claude | Action Labs",
+        "description": "Free course: build your own task management platform with Claude in under an hour, no coding required."
+      },
+      "cursoTareasAcceso": {
+        "title": "Your free course | Action Labs",
+        "description": "Video and prompts for building your task management platform with Claude."
       }
     }
   },
@@ -475,7 +491,13 @@
           ],
           "cta": "Pedir propuesta"
         }
-      ]
+      ],
+      "freeCard": {
+        "duration": "Gratis · ~50 min en vídeo",
+        "title": "Crea tu gestor de tareas con Claude",
+        "tagline": "Construye tu propia plataforma de tareas en menos de una hora, sin programar.",
+        "audience": "Cualquiera con una idea y sin equipo técnico"
+      }
     },
     "courseDetail": {
       "requestHeading": "Pide una propuesta para tu equipo",
@@ -697,6 +719,115 @@
           "role": "Trainee",
           "bio": "Apoya en investigación, documentación y pruebas de los sistemas antes de que salgan a producción.",
           "slug": "alvaro-entrena"
+        }
+      ]
+    },
+    "freeCourse": {
+      "badge": "Curso gratuito",
+      "title": "Crea tu propia plataforma de gestión de tareas con Claude en menos de una hora",
+      "sub": "Sin saber programar. Partimos de una idea y terminamos con una aplicación funcionando, con tus tareas, tus estados y tus datos.",
+      "cta": "Obtener el curso gratis",
+      "note": "100% gratis y en español. No necesitas experiencia técnica.",
+      "buildKicker": "Lo que vas a construir",
+      "buildTitle": "Una plataforma de tareas hecha a tu medida",
+      "buildText": "No una plantilla: tu propia aplicación, con los campos y los estados que tú decidas. Al terminar la tendrás funcionando y sabrás cómo seguir ampliándola.",
+      "buildPoints": [
+        "Un tablero con tus tareas, estados y prioridades",
+        "Datos que se guardan de verdad, no una demo",
+        "La base para adaptarla a cualquier proceso de tu empresa"
+      ],
+      "learnKicker": "Lo que vas a aprender",
+      "learnTitle": "De la idea a la aplicación, paso a paso",
+      "lessons": [
+        {
+          "n": "01",
+          "t": "Qué es Claude Code y cómo se usa",
+          "d": "Cómo hablarle para que construya lo que quieres, y en qué se diferencia de un chat normal."
+        },
+        {
+          "n": "02",
+          "t": "De la idea al plan",
+          "d": "Cómo describir la aplicación para que salga a la primera, sin vueltas ni código roto."
+        },
+        {
+          "n": "03",
+          "t": "Construir la plataforma",
+          "d": "Tablero, tareas, estados y prioridades funcionando sobre datos reales."
+        },
+        {
+          "n": "04",
+          "t": "Ponerla en marcha",
+          "d": "Cómo dejarla accesible y qué mirar cuando algo no funciona."
+        },
+        {
+          "n": "05",
+          "t": "Cómo llevarlo a tu empresa",
+          "d": "Qué procesos de tu negocio encajan con esto y por dónde empezar."
+        }
+      ],
+      "forWhoKicker": "Para quién es",
+      "forWhoTitle": "Para quien quiere dejar de esperar a que alguien se lo haga",
+      "forWho": [
+        "Dueños y responsables de pyme que quieren probar la IA con algo real",
+        "Perfiles de operaciones cansados de pelearse con hojas de cálculo",
+        "Cualquiera con una idea y sin equipo técnico para ejecutarla"
+      ],
+      "form": {
+        "heading": "Accede al curso gratis",
+        "sub": "Te damos acceso inmediato. Solo necesitamos saber a quién se lo mandamos.",
+        "name": "Nombre",
+        "email": "Email",
+        "submit": "Ver el curso",
+        "submitting": "Enviando...",
+        "error": "Revisa el email e inténtalo otra vez.",
+        "privacy": "Solo lo usamos para darte acceso y avisarte de nuevos contenidos. Nada de spam."
+      },
+      "access": {
+        "kicker": "Curso gratuito",
+        "title": "Crea tu plataforma de gestión de tareas con Claude",
+        "welcome": "Bienvenido. Abajo tienes el vídeo completo y todos los prompts que uso, listos para copiar. Ve haciéndolo a la vez que el vídeo: en menos de una hora tendrás tu plataforma funcionando.",
+        "videoPending": "El vídeo estará disponible aquí",
+        "videoNote": "Duración aproximada: 50 minutos",
+        "promptsKicker": "Los prompts del vídeo",
+        "promptsTitle": "Copia y pega, en el mismo orden que en el vídeo",
+        "promptsNote": "Sustituye lo que va entre corchetes por lo tuyo.",
+        "copy": "Copiar",
+        "copied": "Copiado",
+        "ctaKicker": "Y esto es solo el principio",
+        "ctaTitle": "Lo mismo, aplicado a tu empresa",
+        "ctaText": "Esto que acabas de montar es la versión pequeña. En una llamada de 30 minutos te decimos qué proceso de tu negocio conviene automatizar primero y cómo sería hacerlo en serio, sobre tus herramientas y tus datos.",
+        "ctaButton": "Reserva una llamada de 30 minutos",
+        "moreTitle": "Otros casos que resolvemos",
+        "more": [
+          "Agentes que atienden a tus clientes y cualifican tus leads",
+          "Informes y alertas que llegan solos cada mañana",
+          "Automatizaciones que quitan el trabajo manual de tu back office"
+        ]
+      },
+      "prompts": [
+        {
+          "t": "1. Definir la aplicación",
+          "p": "Quiero construir una aplicación web sencilla de gestión de tareas para [describe tu negocio]. Necesito poder crear tareas con título, descripción, responsable, prioridad y estado (pendiente, en curso, hecha). Antes de escribir código, hazme las preguntas que necesites y propón un plan."
+        },
+        {
+          "t": "2. Crear el proyecto",
+          "p": "Crea el proyecto con la estructura mínima para que funcione en mi ordenador. Explícame en lenguaje sencillo qué hace cada fichero que crees."
+        },
+        {
+          "t": "3. El tablero",
+          "p": "Añade una vista de tablero donde vea las tareas agrupadas por estado y pueda moverlas de una columna a otra. Que se vea bien también en el móvil."
+        },
+        {
+          "t": "4. Guardar los datos",
+          "p": "Haz que las tareas se guarden de forma permanente, para que sigan ahí al cerrar y volver a abrir. Usa la opción más simple que funcione sin que yo tenga que configurar nada complicado."
+        },
+        {
+          "t": "5. Ajustes a mi medida",
+          "p": "Quiero añadir [tu campo: cliente, fecha límite, importe...] a cada tarea y poder filtrar por ese campo. Hazlo y enséñame dónde tocar si luego quiero cambiarlo."
+        },
+        {
+          "t": "6. Ponerla en marcha",
+          "p": "Explícame paso a paso, como si no supiera nada de programación, cómo dejar esta aplicación funcionando para poder usarla y compartirla con mi equipo."
         }
       ]
     }
@@ -1099,7 +1230,13 @@
           ],
           "cta": "Request a proposal"
         }
-      ]
+      ],
+      "freeCard": {
+        "duration": "Free · ~50 min video",
+        "title": "Build your task manager with Claude",
+        "tagline": "Build your own task platform in under an hour, without coding.",
+        "audience": "Anyone with an idea and no technical team"
+      }
     },
     "courseDetail": {
       "requestHeading": "Request a proposal for your team",
@@ -1321,6 +1458,115 @@
           "role": "Trainee",
           "bio": "Supports research, documentation and testing of the systems before they reach production.",
           "slug": "alvaro-entrena"
+        }
+      ]
+    },
+    "freeCourse": {
+      "badge": "Free course",
+      "title": "Build your own task management platform with Claude in under an hour",
+      "sub": "No coding needed. We start from an idea and finish with a working app: your tasks, your statuses, your data.",
+      "cta": "Get the free course",
+      "note": "100% free, in Spanish. No technical experience required.",
+      "buildKicker": "What you'll build",
+      "buildTitle": "A task platform built around you",
+      "buildText": "Not a template: your own app, with the fields and statuses you decide. You'll finish with it running and knowing how to extend it.",
+      "buildPoints": [
+        "A board with your tasks, statuses and priorities",
+        "Data that is actually stored, not a demo",
+        "The base to adapt it to any process in your company"
+      ],
+      "learnKicker": "What you'll learn",
+      "learnTitle": "From idea to application, step by step",
+      "lessons": [
+        {
+          "n": "01",
+          "t": "What Claude Code is and how to use it",
+          "d": "How to talk to it so it builds what you want, and how it differs from a normal chat."
+        },
+        {
+          "n": "02",
+          "t": "From idea to plan",
+          "d": "How to describe the app so it works first time, with no broken code."
+        },
+        {
+          "n": "03",
+          "t": "Building the platform",
+          "d": "Board, tasks, statuses and priorities running on real data."
+        },
+        {
+          "n": "04",
+          "t": "Getting it live",
+          "d": "How to make it accessible and what to check when something breaks."
+        },
+        {
+          "n": "05",
+          "t": "Taking it to your company",
+          "d": "Which of your processes fit this approach and where to start."
+        }
+      ],
+      "forWhoKicker": "Who it's for",
+      "forWhoTitle": "For anyone tired of waiting for someone else to build it",
+      "forWho": [
+        "SMB owners and managers who want to try AI on something real",
+        "Operations people done with fighting spreadsheets",
+        "Anyone with an idea and no technical team to execute it"
+      ],
+      "form": {
+        "heading": "Get the course free",
+        "sub": "Instant access. We just need to know who we're sending it to.",
+        "name": "Name",
+        "email": "Email",
+        "submit": "Watch the course",
+        "submitting": "Sending...",
+        "error": "Check the email and try again.",
+        "privacy": "Only used to give you access and let you know about new content. No spam."
+      },
+      "access": {
+        "kicker": "Free course",
+        "title": "Build your task management platform with Claude",
+        "welcome": "Welcome. Below you have the full video and every prompt I use, ready to copy. Follow along: in under an hour you'll have your platform running.",
+        "videoPending": "The video will be available here",
+        "videoNote": "Approximate length: 50 minutes",
+        "promptsKicker": "The prompts from the video",
+        "promptsTitle": "Copy and paste, in the same order as the video",
+        "promptsNote": "Replace anything in brackets with your own.",
+        "copy": "Copy",
+        "copied": "Copied",
+        "ctaKicker": "And this is just the start",
+        "ctaTitle": "The same thing, applied to your company",
+        "ctaText": "What you just built is the small version. In a 30-minute call we'll tell you which process in your business to automate first and what doing it properly would look like, on your tools and your data.",
+        "ctaButton": "Book a 30-minute call",
+        "moreTitle": "Other things we solve",
+        "more": [
+          "Agents that serve your customers and qualify your leads",
+          "Reports and alerts that arrive on their own every morning",
+          "Automations that take manual work out of your back office"
+        ]
+      },
+      "prompts": [
+        {
+          "t": "1. Define the app",
+          "p": "I want to build a simple task management web app for [describe your business]. I need to create tasks with title, description, owner, priority and status (to do, in progress, done). Before writing code, ask me whatever you need and propose a plan."
+        },
+        {
+          "t": "2. Create the project",
+          "p": "Create the project with the minimum structure to run on my computer. Explain in plain language what each file you create does."
+        },
+        {
+          "t": "3. The board",
+          "p": "Add a board view where I can see tasks grouped by status and move them between columns. Make sure it works on mobile too."
+        },
+        {
+          "t": "4. Store the data",
+          "p": "Make tasks persist so they're still there after closing and reopening. Use the simplest option that works without complex setup."
+        },
+        {
+          "t": "5. My own fields",
+          "p": "I want to add [your field: client, due date, amount...] to each task and filter by it. Do it and show me where to change it later."
+        },
+        {
+          "t": "6. Get it running",
+          "p": "Explain step by step, as if I knew nothing about programming, how to get this app running so I can use it and share it with my team."
         }
       ]
     }
