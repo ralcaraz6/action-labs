@@ -44,6 +44,10 @@
       "cursoTareasAcceso": {
         "title": "Tu curso gratis | Action Labs",
         "description": "Vídeo y prompts del curso para crear tu plataforma de gestión de tareas con Claude."
+      },
+      "cursoTareasRegistro": {
+        "title": "Accede al curso gratis | Action Labs",
+        "description": "Deja tu nombre y tu email y entra directamente al curso gratuito para crear tu plataforma de gestión de tareas con Claude."
       }
     },
     "en": {
@@ -90,6 +94,10 @@
       "cursoTareasAcceso": {
         "title": "Your free course | Action Labs",
         "description": "Video and prompts for building your task management platform with Claude."
+      },
+      "cursoTareasRegistro": {
+        "title": "Get the free course | Action Labs",
+        "description": "Leave your name and email and go straight into the free course to build your own task management platform with Claude."
       }
     }
   },
@@ -658,7 +666,8 @@
       "closeModal": "Cerrar",
       "bookCta": "Reserva una llamada de 30 minutos",
       "privacyLink": "política de privacidad",
-      "waFloat": "Escríbenos por WhatsApp"
+      "waFloat": "Escríbenos por WhatsApp",
+      "consentPre": "Al enviar aceptas nuestra"
     },
     "heroPanel": {
       "inLabel": "Lo que ya usas",
@@ -780,7 +789,13 @@
         "submit": "Ver el curso",
         "submitting": "Enviando...",
         "error": "Revisa el email e inténtalo otra vez.",
-        "privacy": "Solo lo usamos para darte acceso y avisarte de nuevos contenidos. Nada de spam."
+        "privacy": "Solo lo usamos para darte acceso y avisarte de nuevos contenidos. Nada de spam.",
+        "backLink": "Volver al curso",
+        "recap": [
+          "Acceso inmediato: al enviar entras directamente al curso",
+          "Vídeo completo y todos los prompts listos para copiar",
+          "Gratis y en español, sin experiencia técnica"
+        ]
       },
       "access": {
         "kicker": "Curso gratuito",
@@ -1397,7 +1412,8 @@
       "closeModal": "Close",
       "bookCta": "Book a 30-minute call",
       "privacyLink": "privacy policy",
-      "waFloat": "Message us on WhatsApp"
+      "waFloat": "Message us on WhatsApp",
+      "consentPre": "By sending this you accept our"
     },
     "heroPanel": {
       "inLabel": "What you already use",
@@ -1512,14 +1528,20 @@
         "Anyone with an idea and no technical team to execute it"
       ],
       "form": {
-        "heading": "Get the course free",
+        "heading": "Get the free course",
         "sub": "Instant access. We just need to know who we're sending it to.",
         "name": "Name",
         "email": "Email",
         "submit": "Watch the course",
         "submitting": "Sending...",
         "error": "Check the email and try again.",
-        "privacy": "Only used to give you access and let you know about new content. No spam."
+        "privacy": "Only used to give you access and let you know about new content. No spam.",
+        "backLink": "Back to the course",
+        "recap": [
+          "Instant access: you go straight into the course",
+          "Full video and every prompt, ready to copy",
+          "Free and in Spanish, no technical background needed"
+        ]
       },
       "access": {
         "kicker": "Free course",

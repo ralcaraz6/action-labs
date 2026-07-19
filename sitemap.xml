@@ -75,11 +75,17 @@
   </url>
   <url>
     <loc>https://ralcaraz6.github.io/action-labs/privacidad.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ralcaraz6.github.io/action-labs/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ralcaraz6.github.io/action-labs/privacidad.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ralcaraz6.github.io/action-labs/privacidad.html"/>
     <lastmod>2026-07-18</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://ralcaraz6.github.io/action-labs/curso-tareas-claude.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ralcaraz6.github.io/action-labs/curso-tareas-claude.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ralcaraz6.github.io/action-labs/curso-tareas-claude.html?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ralcaraz6.github.io/action-labs/curso-tareas-claude.html"/>
     <lastmod>2026-07-19</lastmod>
     <priority>0.9</priority>
   </url>
