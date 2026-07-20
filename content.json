@@ -48,6 +48,10 @@
       "cursoTareasRegistro": {
         "title": "Accede al curso gratis | Action Labs",
         "description": "Deja tu nombre y tu email y entra directamente al curso gratuito para crear tu plataforma de gestión de tareas con Claude."
+      },
+      "herramientas": {
+        "title": "Herramientas: nuestro software en producción | Action Labs",
+        "description": "Software propio de Action Labs en producción: Pulpo Action 3, gestor de tareas con modo foco, y Prospecta Pulpo 4, pipeline de ventas para autónomos."
       }
     },
     "en": {
@@ -98,6 +102,10 @@
       "cursoTareasRegistro": {
         "title": "Get the free course | Action Labs",
         "description": "Leave your name and email and go straight into the free course to build your own task management platform with Claude."
+      },
+      "herramientas": {
+        "title": "Tools: our software in production | Action Labs",
+        "description": "Action Labs' own software in production: Pulpo Action 3, a task manager with focus mode, and Prospecta Pulpo 4, a sales pipeline for freelancers."
       }
     }
   },
@@ -109,7 +117,9 @@
       "formacion": "Formación",
       "newsletter": "Newsletter",
       "contact": "Contacto",
-      "cta": "Reserva una llamada de 30 minutos"
+      "cta": "Reserva una llamada de 30 minutos",
+      "clients": "Clientes",
+      "tools": "Herramientas"
     },
     "hero": {
       "eyebrow": "Consultoría de IA",
@@ -845,6 +855,25 @@
           "p": "Explícame paso a paso, como si no supiera nada de programación, cómo dejar esta aplicación funcionando para poder usarla y compartirla con mi equipo."
         }
       ]
+    },
+    "tools": {
+      "kicker": "Herramientas",
+      "heading": "Software propio, en producción",
+      "sub": "No solo montamos sistemas para clientes: también publicamos nuestras propias herramientas. Estas dos están vivas y se pagan solas.",
+      "items": [
+        {
+          "name": "Pulpo Action 3",
+          "desc": "Gestor de tareas con ocho brazos. Captura en una línea, modo foco con temporizador y racha diaria.",
+          "tag": "Productividad",
+          "cta": "Ver Pulpo Action 3"
+        },
+        {
+          "name": "Prospecta Pulpo 4",
+          "desc": "Pipeline de ventas para autónomos. Cada oportunidad lleva un próximo paso: sin él, no es un cliente, es un recuerdo.",
+          "tag": "Ventas",
+          "cta": "Ver Prospecta Pulpo 4"
+        }
+      ]
     }
   },
   "en": {
@@ -855,7 +884,9 @@
       "formacion": "Training",
       "newsletter": "Newsletter",
       "contact": "Contact",
-      "cta": "Book a 30-minute call"
+      "cta": "Book a 30-minute call",
+      "clients": "Clients",
+      "tools": "Tools"
     },
     "hero": {
       "eyebrow": "AI consultancy",
@@ -1589,6 +1620,25 @@
         {
           "t": "6. Get it running",
           "p": "Explain step by step, as if I knew nothing about programming, how to get this app running so I can use it and share it with my team."
+        }
+      ]
+    },
+    "tools": {
+      "kicker": "Tools",
+      "heading": "Our own software, in production",
+      "sub": "We don't just build systems for clients: we also ship our own tools. These two are live and pay for themselves.",
+      "items": [
+        {
+          "name": "Pulpo Action 3",
+          "desc": "A task manager with eight arms. One-line capture, focus mode with a timer and a daily streak.",
+          "tag": "Productivity",
+          "cta": "See Pulpo Action 3"
+        },
+        {
+          "name": "Prospecta Pulpo 4",
+          "desc": "A sales pipeline for freelancers. Every opportunity carries a next step: without one, it's not a client, it's a memory.",
+          "tag": "Sales",
+          "cta": "See Prospecta Pulpo 4"
         }
       ]
     }
