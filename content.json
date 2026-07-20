@@ -114,7 +114,7 @@
     "hero": {
       "eyebrow": "Consultoría de IA",
       "headline": "Consultoría en {{Inteligencia Artificial}} para empresas",
-      "sub": "Resolvemos problemas reales de tu empresa con inteligencia artificial y automatización, sobre el stack que ya usas. Los agentes son una de las herramientas, no el producto.",
+      "sub": "Alguien de tu equipo copia datos entre hojas y rehace a mano el informe de siempre, y el cliente sin respuesta. Lo resolvemos {{sobre la infraestructura que ya usas, sin que tus datos salgan de casa}}.",
       "cta1": "Reserva una llamada de 30 minutos",
       "cta2": "Ver casos de éxito"
     },
@@ -860,7 +860,7 @@
     "hero": {
       "eyebrow": "AI consultancy",
       "headline": "{{Artificial intelligence}} consultancy for companies",
-      "sub": "We solve real business problems with AI and automation, on the stack you already run. Agents are one of the tools, not the product.",
+      "sub": "Someone on your team copies data between spreadsheets and rebuilds the same old report by hand, and a customer's left waiting. We handle it {{on the infrastructure you already run, and your data stays in-house}}.",
       "cta1": "Book a 30-minute call",
       "cta2": "View case studies"
     },
