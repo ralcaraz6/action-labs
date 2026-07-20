@@ -447,7 +447,7 @@
     "formacion": {
       "kicker": "Formación",
       "heading": "Formación en IA para empresas",
-      "sub": "Cursos prácticos para que tu equipo use inteligencia artificial en su trabajo diario, no en teoría. Online o presencial, con ejercicios sobre tus propios casos.",
+      "sub": "Cursos prácticos para que tu equipo use la IA en su trabajo diario, no en teoría. Online o presencial, con ejercicios sobre tus propios casos.",
       "courses": [
         {
           "slug": "curso-chatgpt-empresas",
@@ -511,9 +511,9 @@
         }
       ],
       "freeCard": {
-        "duration": "Gratis · ~50 min en vídeo",
+        "duration": "~50 min · en vídeo",
         "title": "Crea tu gestor de tareas con Claude",
-        "tagline": "Construye tu propia plataforma de tareas en menos de una hora, sin programar.",
+        "tagline": "Construye tu propia plataforma de tareas sin programar, paso a paso.",
         "audience": "Cualquiera con una idea y sin equipo técnico"
       }
     },
@@ -743,9 +743,9 @@
     },
     "freeCourse": {
       "badge": "Curso gratuito",
-      "title": "Crea tu propia plataforma de gestión de tareas con Claude en menos de una hora",
+      "title": "Crea tu propia plataforma de gestión de tareas con Claude",
       "sub": "Sin saber programar. Partimos de una idea y terminamos con una aplicación funcionando, con tus tareas, tus estados y tus datos.",
-      "cta": "Obtener el curso gratis",
+      "cta": "Acceder al curso gratis",
       "note": "100% gratis y en español. No necesitas experiencia técnica.",
       "buildKicker": "Lo que vas a construir",
       "buildTitle": "Una plataforma de tareas hecha a tu medida",
@@ -1214,7 +1214,7 @@
     "formacion": {
       "kicker": "Training",
       "heading": "AI training for companies",
-      "sub": "Practical courses so your team uses artificial intelligence in their daily work, not in theory. Online or on site, with exercises built on your own cases.",
+      "sub": "Hands-on courses so your team uses AI in their daily work, not in theory. Online or on-site, with exercises on your own cases.",
       "courses": [
         {
           "slug": "curso-chatgpt-empresas",
@@ -1278,9 +1278,9 @@
         }
       ],
       "freeCard": {
-        "duration": "Free · ~50 min video",
+        "duration": "~50 min · video",
         "title": "Build your task manager with Claude",
-        "tagline": "Build your own task platform in under an hour, without coding.",
+        "tagline": "Build your own task platform without coding, step by step.",
         "audience": "Anyone with an idea and no technical team"
       }
     },
@@ -1510,9 +1510,9 @@
     },
     "freeCourse": {
       "badge": "Free course",
-      "title": "Build your own task management platform with Claude in under an hour",
+      "title": "Build your own task management platform with Claude",
       "sub": "No coding needed. We start from an idea and finish with a working app: your tasks, your statuses, your data.",
-      "cta": "Get the free course",
+      "cta": "Access the free course",
       "note": "100% free, in Spanish. No technical experience required.",
       "buildKicker": "What you'll build",
       "buildTitle": "A task platform built around you",
